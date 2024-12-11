@@ -1,0 +1,9 @@
+{
+  "code": "ValidationException",
+  "status": "422",
+  "detail": "The email has already been taken.",
+  "meta": {
+    "source_field": "email",
+    "rule": "unique"
+  }
+}
